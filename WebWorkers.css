@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.container{
+    border: solid red 10px;
+    background-color: cyan;
+    margin: 10px;
+    padding: auto;
+    height: 400px;
+    width: 80%;
+
+    position: relative;
+    left: 170px;
+}
+
+button{
+    border: solid black 3px;
+    border-radius: 7px;
+    background-color: rgb(211, 211, 235);
+    width: 200px;
+    height: 50px;
+}
+
+button:hover{
+    background-color: dimgray;
+}

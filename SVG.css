@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container{
+    display: flex;
+    margin: 10px;
+    position: relative;
+    right: 60px;
+}
+
+.box{
+    border: solid red 5px;
+    background-color: aquamarine;
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: auto;
+
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
